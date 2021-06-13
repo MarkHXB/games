@@ -1,0 +1,9 @@
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\bin\Debug\AlienGame.exe.config
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\bin\Debug\AlienGame.exe
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\bin\Debug\AlienGame.pdb
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\AlienGame.csproj.ResolveComReference.cache
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\AlienGame.csproj.CoreCompileInputs.cache
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\AlienGame.exe
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\AlienGame.pdb
+C:\Users\bakon\OneDrive\Asztali gép\Infó\C#\Game\AlienGame\obj\Debug\AlienGame.csprojAssemblyReference.cache
